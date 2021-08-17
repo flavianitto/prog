@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //mini-prova 4 - construa um programa em linguagem C para ler do teclado as coordenadas de dois pontos, 
-//isto é, (x1,y1) e (x2,y2), e apresentar na tela a equação da reta y = ax+b que passa por eles
+//isto Ã©, (x1,y1) e (x2,y2), e apresentar na tela a equaÃ§Ã£o da reta y = ax+b que passa por eles
 
 int main ()
 {
