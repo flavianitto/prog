@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//mini-prova 5 - construa um programa em linguagem C para ler três valores reais do teclado e apresentar na tela o menor deles, 
-//o maior deles, a média artimética deles e, por fim, a amplitude deles, ou seja, a diferença entre o maior e o menor.
+//mini-prova 5 - construa um programa em linguagem C para ler trÃªs valores reais do teclado e apresentar na tela o menor deles, 
+//o maior deles, a mÃ©dia artimÃ©tica deles e, por fim, a amplitude deles, ou seja, a diferenÃ§a entre o maior e o menor.
 
 int main()
 {
