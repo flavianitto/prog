@@ -4,10 +4,10 @@
 #include<ctype.h>
 /*
 Mini-prova 9: construa um programa em linguagem C para ler uma string do teclado que contenha somente
-caracteres maiúsculos. Enquanto o usuário não digitar uma string em tais condições, o programa deve
-permanecer solicitando-a e relendo-a para, somente depois, prosseguir. Assim que uma string válida
-for lida, deverá ser apresentada na tela a mesma string mas com todos os caracteres minúsculos 
-correspondentes e, além disso, escrita de trás para frente
+caracteres maiÃºsculos. Enquanto o usuÃ¡rio nÃ£o digitar uma string em tais condiÃ§Ãµes, o programa deve
+permanecer solicitando-a e relendo-a para, somente depois, prosseguir. Assim que uma string vÃ¡lida
+for lida, deverÃ¡ ser apresentada na tela a mesma string mas com todos os caracteres minÃºsculos 
+correspondentes e, alÃ©m disso, escrita de trÃ¡s para frente
 */
 int main()	
 {
@@ -15,7 +15,7 @@ int main()
 	int tam, i, aux=0;
 	char string[40];
 	
-	printf("Insira uma string válida: ");
+	printf("Insira uma string vÃ¡lida: ");
 	gets(string);
 	setbuf(stdin, NULL);
 		
@@ -24,13 +24,13 @@ int main()
 	{
 		if(islower(string[i]))
 		{
-			printf("Insira uma string válida: ");
+			printf("Insira uma string vÃ¡lida: ");
 			gets(string);
 			setbuf(stdin, NULL);			
 		}
 	}
 
-	puts("Mostrando a string de trás para frente: ");
+	puts("Mostrando a string de trÃ¡s para frente: ");
 	for(i=tam-1; i>=0; i--)
 	{
 		strlwr(string);
