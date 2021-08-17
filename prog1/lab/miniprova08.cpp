@@ -3,7 +3,7 @@
 
 /*
 Mini-prova 8 - Construa um programa em linguagem C para solicitar e ler valores inteiros do teclado
-até que o número 0 seja digitado. Quando isso ocorrer, deverá ser exibido na tela a soma dos valores
+atÃ© que o nÃºmero 0 seja digitado. Quando isso ocorrer, deverÃ¡ ser exibido na tela a soma dos valores
 anteriormente digitados.
 */
 
