@@ -3,13 +3,13 @@
 #include<ctype.h>
 
 /* 
-Mini-prova 7 - Construa um programa em linguagem C para ler uma senha de no máximo 10 caracteres
-do teclado e informar posteriormente na tela se ela é válida ou não. São consideradas válidas as
-senhas para as quais o primeiro e o ultimo caracteres são iguais ou para as quais o número de 
-letras maiusculas é igual ao de minúsculas
+Mini-prova 7 - Construa um programa em linguagem C para ler uma senha de no mÃ¡ximo 10 caracteres
+do teclado e informar posteriormente na tela se ela Ã© vÃ¡lida ou nÃ£o. SÃ£o consideradas vÃ¡lidas as
+senhas para as quais o primeiro e o ultimo caracteres sÃ£o iguais ou para as quais o nÃºmero de 
+letras maiusculas Ã© igual ao de minÃºsculas
 */
 
-//função para pegar o tamanho da senha
+//funÃ§Ã£o para pegar o tamanho da senha
 int strlen(char*str)
 {
 	int cont=0;
