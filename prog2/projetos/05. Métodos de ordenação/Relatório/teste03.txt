@@ -1,0 +1,138 @@
+TESTE03 
+OP1 
+Tempo total: 90.457853
+Tempo total: 90.306701
+Tempo total: 89.784850
+Tempo total: 89.432222
+Tempo total: 88.235832
+
+OP2
+Tempo ordenacao: 29.352226
+Tempo busca: 38.453059
+Tempo total: 67.805285
+
+Tempo ordenacao: 31.039318
+Tempo busca: 38.663098
+Tempo total: 69.702416
+
+Tempo ordenacao: 32.800951
+Tempo busca: 38.381644
+Tempo total: 71.182595
+
+Tempo ordenacao: 30.133249
+Tempo busca: 39.163668
+Tempo total: 69.296917
+
+Tempo ordenacao: 32.847308
+Tempo busca: 39.178362
+Tempo total: 72.025670
+
+
+OP3
+Tempo ordenacao: 0.046863
+Tempo busca: 41.886445
+Tempo total: 41.933308
+
+Tempo ordenacao: 0.046919
+Tempo busca: 44.271879
+Tempo total: 44.318798
+
+Tempo ordenacao: 0.046561
+Tempo busca: 40.990852
+Tempo total: 41.037414
+
+Tempo ordenacao: 0.037840
+Tempo busca: 44.950908
+Tempo total: 44.988748
+
+Tempo ordenacao: 0.046911
+Tempo busca: 42.861143
+Tempo total: 42.908054
+
+
+OP4
+Tempo ordenacao: 0.030902
+Tempo busca: 38.993587
+Tempo total: 39.024489
+
+Tempo ordenacao: 0.031280
+Tempo busca: 39.948782
+Tempo total: 39.980061
+
+Tempo ordenacao: 0.021851
+Tempo busca: 39.343490
+Tempo total: 39.365342
+
+Tempo ordenacao: 0.030943
+Tempo busca: 37.774920
+Tempo total: 37.805862
+
+Tempo ordenacao: 0.037510
+Tempo busca: 38.036872
+Tempo total: 38.074382
+
+
+OP5
+Tempo ordenacao: 30.037678
+Tempo busca: 5.984680
+Tempo total: 36.022358
+
+Tempo ordenacao: 30.262436
+Tempo busca: 6.217258
+Tempo total: 36.479693
+
+Tempo ordenacao: 31.133343
+Tempo busca: 6.982738
+Tempo total: 38.116081
+
+Tempo ordenacao: 32.734737
+Tempo busca: 6.873387
+Tempo total: 39.608124
+
+Tempo ordenacao: 32.523357
+Tempo busca: 6.951447
+Tempo total: 39.474804
+
+
+OP6
+Tempo ordenacao: 0.046862
+Tempo busca: 6.998362
+Tempo total: 7.045224
+
+Tempo ordenacao: 0.046862
+Tempo busca: 6.873422
+Tempo total: 6.920284
+
+Tempo ordenacao: 0.046903
+Tempo busca: 6.732804
+Tempo total: 6.779707
+
+Tempo ordenacao: 0.046561
+Tempo busca: 7.040598
+Tempo total: 7.087159
+
+Tempo ordenacao: 0.046874
+Tempo busca: 6.373473
+Tempo total: 6.420347
+
+
+OP7
+Tempo ordenacao: 0.030956
+Tempo busca: 6.904635
+Tempo total: 6.935590
+
+Tempo ordenacao: 0.031282
+Tempo busca: 6.982702
+Tempo total: 7.013984
+
+Tempo ordenacao: 0.015619
+Tempo busca: 7.060848
+Tempo total: 7.076466
+
+Tempo ordenacao: 0.030931
+Tempo busca: 6.342224
+Tempo total: 6.373155
+
+Tempo ordenacao: 0.030910
+Tempo busca: 6.639069
+Tempo total: 6.669980
