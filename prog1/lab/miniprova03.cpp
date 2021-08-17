@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// mini-prova 3 - construa um algoritmo computacional para realizar a soma de dois valores de entrada e apresent·-la como saÌda.
+// mini-prova 3 - construa um algoritmo computacional para realizar a soma de dois valores de entrada e apresent√°-la como sa√≠da.
 
 int main ()
 {
